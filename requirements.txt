@@ -1,0 +1,9 @@
+psycopg2-binary
+sqlalchemy
+requests
+python-dotenv
+flask
+boto3
+pandas
+openai
+yandexcloud

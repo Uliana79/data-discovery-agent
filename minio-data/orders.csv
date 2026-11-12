@@ -1,0 +1,4 @@
+id,user_id,order_date,amount,status
+1,1,2024-01-15,150.50,completed
+2,1,2024-01-16,75.00,pending
+3,2,2024-01-17,200.00,completed

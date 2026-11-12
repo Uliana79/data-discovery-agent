@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "dataPath": "users/",
+      "structureFormat": "csv",
+      "separator": ","
+    },
+    {
+      "dataPath": "orders/",
+      "structureFormat": "csv",
+      "separator": ","
+    },
+    {
+      "dataPath": "users2/",
+      "structureFormat": "csv",
+      "separator": ","
+    }
+  ]
+}
