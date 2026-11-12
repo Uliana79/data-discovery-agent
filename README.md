@@ -116,7 +116,6 @@ docker-compose up -d
 .
 ├── README.md
 ├── .env.example
-├── .gitignore
 ├── docker-compose.yml
 ├── Dockerfile.agent
 ├── requirements.txt
